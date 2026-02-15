@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="6" fill="#4F46E5"/>
-  <text x="16" y="24" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">R</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(8.627451%,83.92157%,98.039216%);fill-opacity:1;" d="M 27.519531 30.078125 L 4.480469 30.078125 L 4.480469 1.921875 L 20.90625 1.921875 L 27.519531 8.59375 Z M 7.039062 27.519531 L 24.960938 27.519531 L 24.960938 9.648438 L 19.839844 4.480469 L 7.039062 4.480469 Z M 7.039062 27.519531 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(8.627451%,83.92157%,98.039216%);fill-opacity:1;" d="M 27.519531 12.160156 L 17.28125 12.160156 L 17.28125 1.921875 L 19.839844 1.921875 L 19.839844 9.601562 L 27.519531 9.601562 Z M 27.519531 12.160156 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(8.627451%,83.92157%,98.039216%);fill-opacity:1;" d="M 10.238281 14.71875 L 21.761719 14.71875 L 21.761719 17.28125 L 10.238281 17.28125 Z M 10.238281 14.71875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(8.627451%,83.92157%,98.039216%);fill-opacity:1;" d="M 10.238281 19.839844 L 21.761719 19.839844 L 21.761719 22.398438 L 10.238281 22.398438 Z M 10.238281 19.839844 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,64.313728%,100%);fill-opacity:1;" d="M 17.28125 1.921875 L 19.839844 1.921875 L 19.839844 4.480469 L 17.28125 4.480469 Z M 17.28125 1.921875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,64.313728%,100%);fill-opacity:1;" d="M 24.960938 9.601562 L 27.519531 9.601562 L 27.519531 12.160156 L 24.960938 12.160156 Z M 24.960938 9.601562 "/>
+</g>
 </svg>
