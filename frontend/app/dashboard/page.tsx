@@ -461,11 +461,11 @@ export default function Dashboard() {
 
   function renderContent() {
     if (activeTab === 'match') {
-      return <MatchContent />
+      return MatchContent()
     } else if (activeTab === 'resumes') {
-      return <ResumesContent />
+      return ResumesContent()
     } else if (activeTab === 'history') {
-      return <HistoryContent />
+      return HistoryContent()
     }
   }
 
