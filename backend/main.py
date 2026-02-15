@@ -39,7 +39,7 @@ app = FastAPI(title="Resume Parser API", version="1.0.0")
 # CORS middleware for frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Update with Vercel URL in production
+    allow_origins=[os.getenv("FRONTEND_URL")],  # Update with Vercel URL in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
